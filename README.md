@@ -18,8 +18,8 @@ It covers the following topics:
 
 #### Deep Learning Models:
 - **LSTM (Long Short-Term Memory)** – A deep learning approach using recurrent neural networks (RNNs) for time-dependent patterns.  
-- **TFT (Temporal Fusion Transformers)** – A state-of-the-art deep learning model leveraging attention mechanisms for complex time series forecasting.  
-
+- **TFT (Temporal Fusion Transformers)** – A state-of-the-art deep learning model building algorithm leveraging attention mechanisms for complex time series forecasting.  
+- **N-BEATS (Neural Basis Expansion Analysis for Time Series)** - A deep learning algorithm that uses Multi Layer Perceptrons to learn temporal patterns straighforwardly. It captures trend and seasonality through interpretable blocks. 
 ## Libraries Used
 This project uses the following Python libraries for time series analysis and forecasting:
 - **numpy, pandas** – Data manipulation and numerical operations.
