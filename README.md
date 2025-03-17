@@ -21,7 +21,7 @@ It covers the following topics:
 - **TFT (Temporal Fusion Transformers)** – A state-of-the-art deep learning model building algorithm leveraging attention mechanisms for complex time series forecasting.  
 - **N-BEATS (Neural Basis Expansion Analysis for Time Series)** - A deep learning algorithm that uses Multi Layer Perceptrons to learn temporal patterns straighforwardly. It captures trend and seasonality through interpretable blocks. 
 
-### Advanced Topics:
+#### Advanced Topics:
 - **Amazon Chronos** – A time series forecasting library designed for large-scale and high-frequency data, optimized for cloud-based applications.
 - **Amazon AutoGluon** – An AutoML framework that includes time series forecasting capabilities, automating model selection and hyperparameter tuning.
 - **Google TSMixer** – A deep learning-based model that leverages MLP-Mixer architectures for time series forecasting.
@@ -37,4 +37,4 @@ This project uses the following Python libraries for time series analysis and fo
 - **greykite** – LinkedIn’s forecasting framework for business applications.
 - **darts** – Deep learning and ensemble models for time series forecasting.
 - **chronos** – Amazon’s library for large-scale time series forecasting.
-- **autogluon** – AutoML framework with time series forecasting capabilitie
+- **autogluon** – AutoML framework with time series forecasting capabilities
